@@ -2,27 +2,27 @@
   <Theme Name="One Dark Pro" GUID="{0024020f-bba3-4365-9ea1-63b23313d509}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
-        <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
+        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="H1">
-        <Foreground Type="CT_RAW" Source="FFB6DDFF" />
+        <Foreground Type="CT_RAW" Source="FFED9CC5" />
       </Color>
       <Color Name="Chevron">
         <Foreground Type="CT_SYSCOLOR" Source="FFB9A1CF" />
       </Color>
       <Color Name="Hyperlink">
-        <Foreground Type="CT_RAW" Source="FFCECECE" />
+        <Foreground Type="CT_RAW" Source="FFB6005B" />
       </Color>
       <Color Name="HyperlinkHover">
-        <Foreground Type="CT_RAW" Source="FFCECECE" />
+        <Foreground Type="CT_RAW" Source="FF55AAFF" />
       </Color>
       <Color Name="HyperlinkActive">
-        <Foreground Type="CT_RAW" Source="FFCECECE" />
+        <Foreground Type="CT_RAW" Source="FFB6005B" />
       </Color>
       <Color Name="NumberedListItem">
-        <Background Type="CT_RAW" Source="FFB9A1CF" />
-        <Foreground Type="CT_RAW" Source="FF282C34" />
+        <Background Type="CT_RAW" Source="FFA7B7D0" />
+        <Foreground Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="NumberedListItemHover">
         <Background Type="CT_RAW" Source="FF353941" />
